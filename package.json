@@ -21,6 +21,8 @@
     "typescript": "^5.4.5"
   },
   "dependencies": {
+    "@astrojs/netlify": "^5.3.3",
+    "@astrojs/ts-plugin": "^1.8.0",
     "tinacms": "^1.6.4"
   }
 }
